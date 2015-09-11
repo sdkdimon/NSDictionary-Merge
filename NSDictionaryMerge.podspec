@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "NSDictionary-Merge"
+  s.name             = "NSDictionaryMerge"
   s.version          = "1.0"
   s.summary          = "Simple NSDictionary merge category."
   s.homepage         = "https://github.com/sdkdimon/NSDictionary-Merge"
@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
-  s.module_name = 'NSDictionary-Merge'
-  s.source_files = 'NSDictionary-Merge/*.{h,m}'
+  s.module_name = 'NSDictionaryMerge'
+  s.source_files = 'NSDictionaryMerge/*.{h,m}'
 end
 
 
